@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Larry Custodio 👋
 
-<!--
-**larrycustodio/larrycustodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate Software Engineer with a strong focus on building interactive and accessible web applications. With a background in Bioengineering and Mathematics from UC San Diego, I bring a unique analytical approach to software development. I'm an enthusiastic JavaScript engineer dedicated to creating impactful user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+
+### Software Engineer (L3) - Twilio
+*Current Position*
+- Developing scalable web applications and communication solutions
+- Working with modern JavaScript frameworks and cloud technologies
+
+### Senior Software Engineer - Trust & Will
+- Enhanced consumer experiences through innovative software solutions
+- Led development of key features for estate planning platform
+
+### Software Engineer - Extend
+- Contributed to enhancing consumer experiences
+- Developed and maintained web applications
+
+### Software Engineer - Tribe Interactive, LLC
+- Built foundational skills in web development
+- Worked on interactive web applications
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Node.js
+
+**Specializations:**
+- Full-Stack Development
+- Web Application Development
+- Interactive UI/UX
+- Accessible Design
+
+## 🎓 Education
+
+**University of California, San Diego**
+- Bachelor of Science in Bioengineering
+- Bachelor of Science in Mathematics
+
+---
+
+💡 *Always learning, always building*
