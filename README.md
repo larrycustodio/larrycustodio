@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer with a strong focus on building interactive and accessible web applications. With a background in Bioengineering and Mathematics from UC San Diego, I bring a unique analytical approach to software development. I'm an enthusiastic JavaScript engineer dedicated to creating impactful user experiences.
+I'm a passionate JavaScript Engineer with a strong focus on building interactive and accessible web applications. With a background in Bioengineering and Mathematics from UC San Diego, I bring a unique analytical approach to software development, dedicated to creating impactful user experiences.
 
 ## 💼 Professional Experience
 
