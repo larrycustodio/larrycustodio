@@ -17,7 +17,6 @@ At Twilio (Segment), I led the development of Segment Predictions and the Single
 As a founding engineer, I developed the company’s core post-purchase platform, spanning customer-facing warranty claims flows and merchant SDK integrations. My work included building the majority of the consumer claims web experience, internal admin tools, and supporting APIs.
 
 ### Web Developer @ Tribe Interactive
-*Carlsbad, CA | December 2017 - November 2018 (1 year)*
 My first role in tech was at Tribe Interactive, a Carlsbad-based marketing agency. I developed and customized e-commerce sites and built in-house integrations to improve online store functionality and customer engagement.
 
 ## 🛠️ Tech Stack
