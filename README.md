@@ -1,4 +1,4 @@
-# Hi there, I'm Larry Custodio 👋
+# Hi there, I'm Larry 👋
 
 ## 🚀 About Me
 
@@ -21,37 +21,25 @@ My first role in tech was at Tribe Interactive, a Carlsbad-based marketing agenc
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**
-- JavaScript (ES6+)
-- TypeScript
-- React
-- Next.js
-- Node.js
-- GraphQL
+**Languages:**
+JavaScript | TypeScript | Node.js | Golang | Python | SQL
 
-**Testing & Quality:**
-- Jest
-- Cypress
-- React Testing Library
-
-**Tools & Platforms:**
-- Contentful CMS
-- Datadog RUM
-- WordPress/WooCommerce
-- Shopify
+**Frontend:**
+React | Vue | Angular 
 
 **Specializations:**
-- Full-Stack Development
-- Web Application Development
-- Interactive UI/UX
-- Accessible Design
-- Performance Optimization
-- E2E Test Automation
+Full-Stack Development | Web Application Development | Interactive UI/UX | Accessible Design | Performance Optimization | E2E Test Automation
 
 ## 🎓 Education
 
 **University of California, San Diego**
 - Bachelor of Science in Bioengineering
 - Minor in Mathematics
+
+
+
+## Portfolio
+Check out my site for highlights, larrycustodio.com
+
 
 ---
