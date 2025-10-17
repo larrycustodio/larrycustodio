@@ -5,7 +5,7 @@
 I'm a web engineer with a strong focus on building interactive, performant, and accessible web applications.
 
 ## 💼 Professional Experience
-My background spans early-stage startups, late-stage growth companies, and large-scale enterprises, where I’ve contributed as a fullstack and product-minded engineer.
+My background spans from early-stage startups, late-stage growth companies, to large-scale enterprises, where I’ve contributed as a fullstack and product-minded engineer.
 
 ### Lead Software Engineer @ Maven Clinic in New York, from 2023 - 2025
 At Maven, I led the replatforming of the company’s content and community web experience and helped modernize the internal CMS by migrating it to Contentful.
