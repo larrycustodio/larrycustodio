@@ -8,7 +8,7 @@ I'm a web engineer with a strong focus on building interactive, performant, and 
 My background spans from early-stage startups, late-stage growth companies, to large-scale enterprises, where I’ve contributed as a fullstack and product-minded engineer.
 
 ### Lead Software Engineer @ Maven Clinic in New York, from 2023 - 2025
-At Maven, I was part of a team that replatformed of the company’s content and community web experience, and modernized the internal CMS by migrating it to Contentful and introducing new content types to boost user engagement.
+At Maven, I contributed to replatforming the company’s homepage, member-exclusive content, and community web experiences. We modernized the internal CMS by migrating it to Contentful and introduced new interactive content types to boost user engagement.
 
 ### Staff Software Engineer @ Twilio in San Francisco, from 2021 - 2023
 At Twilio (Segment), I led the development of Segment Predictions and the Single Send Campaign Builder: a low-code product offering that enabled marketers to create ML-powered customer journeys and targeted messaging campaigns.
