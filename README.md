@@ -7,6 +7,9 @@ I'm a web engineer with a strong focus on building interactive, performant, and 
 ## 💼 Professional Experience
 My background spans from early-stage startups, late-stage growth companies, to large-scale enterprises, where I’ve contributed as a fullstack and product-minded engineer.
 
+### Senior Frontend Engineer @ Canopy in Salt Lake City, present
+Building accounting tools, TBD
+
 ### Lead Software Engineer @ Maven Clinic in New York, from 2023 - 2025
 At Maven, I contributed to replatforming the company’s homepage, member-exclusive content, and community web experiences. We modernized the internal CMS by migrating it to Contentful and introduced new interactive content types to boost user engagement.
 
@@ -16,7 +19,7 @@ At Twilio (Segment), I led the development of Segment Predictions and the Single
 ### Senior Software Engineer @ Extend in San Francisco, from 2019 - 2021
 As a founding engineer, I developed the company’s core post-purchase platform, spanning customer-facing warranty claims flows and merchant SDK integrations. My work included building the majority of the consumer claims web experience, internal admin tools, and supporting APIs.
 
-### Web Developer @ Tribe Interactive
+### Web Developer @ Tribe Interactive in Carlsbad, from 2018-2019
 My first role in tech was at Tribe Interactive, a Carlsbad-based marketing agency. I developed and customized e-commerce sites and built in-house integrations to improve online store functionality and customer engagement.
 
 ## 🛠️ Tech Stack
