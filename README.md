@@ -1,4 +1,5 @@
 # Hi there, I'm Larry 👋
+Check out my site for highlights, [larrycustodio.com](https://larrycustodio.com)
 
 ## 🚀 About Me
 
@@ -38,11 +39,5 @@ Full-Stack Development | Web Application Development | Interactive UI/UX | Acces
 **University of California, San Diego**
 - Bachelor of Science in Bioengineering
 - Minor in Mathematics
-
-
-
-## Portfolio
-Check out my site for highlights, larrycustodio.com
-
 
 ---
