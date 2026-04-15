@@ -8,9 +8,6 @@ I'm a web engineer with a strong focus on building interactive, performant, and 
 ## 💼 Professional Experience
 My background spans from early-stage startups, late-stage growth companies, to large-scale enterprises, where I’ve contributed as a fullstack and product-minded engineer.
 
-### Senior Frontend Engineer @ Canopy in Salt Lake City, present
-Building accounting tools, TBD
-
 ### Lead Software Engineer @ Maven Clinic in New York, from 2023 - 2025
 At Maven, I contributed to replatforming the company’s homepage, member-exclusive content, and community web experiences. We modernized the internal CMS by migrating it to Contentful and introduced new interactive content types to boost user engagement.
 
