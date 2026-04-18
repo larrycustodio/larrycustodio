@@ -20,17 +20,6 @@ As a founding engineer, I developed the company’s core post-purchase platform,
 ### Web Developer @ Tribe Interactive in Carlsbad, from 2018-2019
 My first role in tech was at Tribe Interactive, a Carlsbad-based marketing agency. I developed and customized e-commerce sites and built in-house integrations to improve online store functionality and customer engagement.
 
-## 🛠️ Tech Stack
-
-**Languages:**
-JavaScript | TypeScript | Node.js | Golang | Python | SQL
-
-**Frontend:**
-React | Vue | Angular 
-
-**Specializations:**
-Full-Stack Development | Web Application Development | Interactive UI/UX | Accessible Design | Performance Optimization | E2E Test Automation
-
 ## 🎓 Education
 
 **University of California, San Diego**
