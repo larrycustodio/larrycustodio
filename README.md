@@ -8,6 +8,9 @@ I'm a web engineer with a strong focus on building interactive, performant, and 
 ## 💼 Professional Experience
 My background spans from early-stage startups, late-stage growth companies, to large-scale enterprises, where I’ve contributed as a fullstack and product-minded engineer.
 
+### Senior Software Engineer @ Canopy Tax in Utah, present
+Building services and experiences for Coworker - an agentic tax-prep platform
+
 ### Lead Software Engineer @ Maven Clinic in New York, from 2023 - 2025
 At Maven, I contributed to replatforming the company’s homepage, member-exclusive content, and community web experiences. We modernized the internal CMS by migrating it to Contentful and introduced new interactive content types to boost user engagement.
 
@@ -25,5 +28,3 @@ My first role in tech was at Tribe Interactive, a Carlsbad-based marketing agenc
 **University of California, San Diego**
 - Bachelor of Science in Bioengineering
 - Minor in Mathematics
-
----
