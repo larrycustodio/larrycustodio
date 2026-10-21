@@ -11,7 +11,7 @@ My background spans from early-stage startups, late-stage growth companies, to l
 ### Senior Software Engineer @ Canopy Tax in Utah, present
 Building services and experiences for Coworker - an agentic tax-prep platform
 
-### Lead Software Engineer @ Maven Clinic in New York, from 2023 - 2025
+### Senior Software Engineer @ Maven Clinic in New York, from 2023 - 2025
 At Maven, I contributed to replatforming the company’s homepage, member-exclusive content, and community web experiences. We modernized the internal CMS by migrating it to Contentful and introduced new interactive content types to boost user engagement.
 
 ### Staff Software Engineer @ Twilio in San Francisco, from 2021 - 2023
